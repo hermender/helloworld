@@ -17,9 +17,8 @@ class Robot {
     }
 }
 
-
 const robot = new Robot();
-
+;
 
 robot.fly(-1);
 robot.fly();
